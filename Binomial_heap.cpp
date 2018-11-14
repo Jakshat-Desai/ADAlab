@@ -187,7 +187,7 @@ class Bin_Heap
         Node *y, *z; y=x; z=x->par;
         while(z!=NULL && y->key<z->key)
         {
-            swap(x->key,y->key);
+            swap(z->key,y->key);
             y=z;
             z=y->par;
         }
