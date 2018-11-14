@@ -1,0 +1,15 @@
+Binomial_heap
+Fibonacci_heap
+DFT
+Johnson
+KD_Tree
+LUP_decomposition
+LineSweep
+PERT_analysis
+assembly_line
+automata
+dag_shortest_path
+kmp
+mod_exp
+rabinkarp
+strongly_connected_comp
