@@ -13,3 +13,11 @@ kmp
 mod_exp
 rabinkarp
 strongly_connected_comp
+extended_euclid
+reader_writer
+producer_consumer_1
+producer_consumer_2
+safe_sequence
+longest_job
+round_robin
+optimal_replace
