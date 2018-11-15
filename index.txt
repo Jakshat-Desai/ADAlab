@@ -21,3 +21,5 @@ safe_sequence
 longest_job
 round_robin
 optimal_replace
+shortest_job
+shortest_job_2
